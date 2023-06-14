@@ -1,0 +1,2850 @@
+book-nr,section-nr,title-ref,title-text,author
+1,1
+1,2
+1,5
+1,6
+1,7
+1,8
+1,9
+1,10
+1,11
+1,12
+1,13
+1,14
+1,15
+1,16
+1,17
+1,18
+1,19
+1,20
+1,21
+1,22
+1,23
+1,24
+1,25
+1,26
+1,27
+1,28
+1,29
+1,30
+1,31
+1,32
+1,33
+1,34
+1,35
+1,36
+1,37
+1,38
+1,39
+1,40
+1,41
+1,42
+1,43
+1,44
+1,45
+1,46
+1,47
+1,48
+1,49
+1,50
+1,51
+1,52
+1,53
+1,54
+1,55
+1,56
+1,57
+1,58
+1,59
+1,60
+1,61
+1,62
+1,63
+1,64
+1,65
+1,66
+1,67
+1,68
+1,69
+1,70
+1,71
+1,72
+1,73
+1,74
+1,75
+1,76
+1,77
+1,78
+1,79
+1,79,#ar-aiol,Αἰολοσίκων,Aristophanes
+1,80
+1,81
+1,82
+1,83
+1,84
+1,85
+1,86
+1,87
+1,88
+1,89
+1,90
+1,91
+1,92
+1,93
+1,94
+1,95
+1,96
+1,97
+1,98
+1,99
+1,100
+1,101
+1,102
+1,103
+1,104
+1,105
+1,106
+1,107
+1,108
+1,109
+1,110
+1,111
+1,112
+1,113
+1,114
+1,115
+1,116
+1,117
+1,118
+1,119
+1,120
+1,121
+1,122
+1,123
+1,123,#demosth-trierarch,περὶ τοῦ τριηραρχήματος,Demosthenes
+1,124
+1,125
+1,126
+1,127
+1,128
+1,129
+1,130
+1,131
+1,132
+1,133
+1,134
+1,135
+1,136
+1,137
+1,138
+1,139
+1,140
+1,141
+1,142
+1,143
+1,144
+1,145
+1,146
+1,147
+1,148
+1,149
+1,150
+1,151
+1,152
+1,153
+1,154
+1,155
+1,156
+1,157
+1,158
+1,159
+1,160
+1,161
+1,162
+1,163
+1,164
+1,165
+1,166
+1,167
+1,168
+1,169
+1,170
+1,171
+1,172
+1,173
+1,174
+1,175
+1,176
+1,177
+1,178
+1,179
+1,180
+1,181
+1,182
+1,183
+1,184
+1,185
+1,186
+1,187
+1,188
+1,189
+1,190
+1,191
+1,192
+1,193
+1,194
+1,195
+1,196
+1,197
+1,198
+1,199
+1,200
+1,201
+1,202
+1,203
+1,204
+1,205
+1,206
+1,207
+1,208
+1,209
+1,210
+1,211
+1,212
+1,213
+1,214
+1,215
+1,216
+1,217
+1,218
+1,219
+1,220
+1,221
+1,222
+1,223
+1,224
+1,225
+1,226
+1,227
+1,228
+1,229
+1,230
+1,231
+1,232
+1,233
+1,234
+1,235
+1,236
+1,237
+1,238
+1,239
+1,240
+1,241
+1,242
+1,243
+1,244
+1,245
+1,246
+1,247
+1,248
+1,249
+1,250
+1,251
+1,252
+1,253
+1,254
+1,255
+2,1
+2,2
+2,5
+2,6
+2,7
+2,8
+2,8,#isaios-aresaich,κατ᾽ Ἀρεσαίχμου,Isaios
+2,9
+2,10
+2,10,#theopomp-srat,Στρατιώτιδες,Theopompos Com.
+2,11
+2,12
+2,13
+2,14
+2,15
+2,15,#pl-tim,Τίμαιος,Platon Phil.
+2,16
+2,17
+2,17,#eup-aig,Αἶγες,Eupolis
+2,18
+2,19
+2,19,#pl-tht,Θεαίτητος,Platon Phil.
+2,20
+2,21
+2,22
+2,23
+2,24
+2,25
+2,26
+2,27
+2,28
+2,29
+2,30
+2,31
+2,32
+2,33
+2,33,#pher-autom #anonym-automol,Αὐτόμολοι,Pherekrates or Anonymus-Automoloi
+2,34
+2,35
+2,36
+2,37
+2,38
+2,38,#aratos-iatr,Ἰατρικά,Aratos
+2,39
+2,40
+2,41
+2,42
+2,43
+2,44
+2,45
+2,46
+2,47
+2,48
+2,49
+2,50
+2,51
+2,52
+2,53
+2,54
+2,55
+2,55,#pl-tim,Τίμαιος,Platon Phil.
+2,56
+2,57
+2,58
+2,59
+2,60
+2,61
+2,61,#isaios-aresaich,κατ᾽ Ἀρεσαίχμου,Isaios
+2,61,#antiphon_soph-aleth,περὶ ἀληθείας,Antiphon Soph.
+2,61,#krat-plout,Πλοῦτος,Kratinos
+2,62
+2,63
+2,64
+2,65
+2,66
+2,67
+2,68
+2,69
+2,70
+2,71
+2,72
+2,73
+2,74
+2,75
+2,76
+2,77
+2,77,#eup-pol,Πόλεις,Eupolis
+2,78
+2,79
+2,80
+2,81
+2,82
+2,83
+2,83,#plat-symm,Συμμαχία,Platon Com.
+2,84
+2,85
+2,86
+2,87
+2,88
+2,88,#ion-synekd,Συνεκδημητικός,Ion
+2,88,#ar-thesm,Θεσμοφοριάζουσαι Ι or Θεσμοφοριάζουσαι ΙΙ,Aristophanes
+2,89
+2,90
+2,91
+2,92
+2,93
+2,94
+2,95
+2,96
+2,97
+2,98
+2,99
+2,100
+2,101
+2,102
+2,103
+2,104
+2,105
+2,106
+2,107
+2,108
+2,109
+2,110
+2,110,#myrt-titan,Τιτανόπανες,Myrtilos
+2,110,#pl-tim,Τίμαιος,Platon Phil.
+2,111
+2,112
+2,113
+2,114
+2,117
+2,118
+2,118,#pl-phd,Φαίδων,Platon Phil.
+2,118,#pl-tim,Τίμαιος,Platon Phil.
+2,119
+2,120
+2,121
+2,122
+2,123
+2,124
+2,125
+2,126
+2,127
+2,128
+2,129
+2,130
+2,131
+2,132
+2,133
+2,134
+2,135
+2,136
+2,137
+2,138
+2,139
+2,140
+2,141
+2,142
+2,143
+2,144
+2,145
+2,146
+2,147
+2,148
+2,149
+2,150
+2,151
+2,152
+2,152,#hypereid-lykophr,ὑπὲρ Λυκόφρονος,Hypereides
+2,153
+2,154
+2,155
+2,156
+2,157
+2,158
+2,159
+2,160
+2,161
+2,162
+2,163
+2,164
+2,165
+2,166
+2,167
+2,168
+2,169
+2,170
+2,171
+2,172
+2,173
+2,174
+2,175
+2,175,#ar-hip,Ἱππεῖς,Aristophanes
+2,176
+2,176,#ar-amph,Ἀμφιάραος,Aristophanes
+2,177
+2,178
+2,179
+2,180
+2,181
+2,182
+2,183
+2,183,#archip-rhinon,Ῥίνων,Archippos
+2,184
+2,185
+2,186
+2,187
+2,188
+2,189
+2,190
+2,191
+2,192
+2,193
+2,194
+2,195
+2,196
+2,197
+2,198
+2,199
+2,199,#ar-sph,Σφῆκες,Aristophanes
+2,200
+2,201
+2,202
+2,203
+2,204
+2,205
+2,206
+2,207
+2,208
+2,209
+2,210
+2,211
+2,212
+2,213
+2,214
+2,215
+2,216
+2,217
+2,218
+2,219
+2,220
+2,221
+2,222
+2,223
+2,224
+2,225
+2,226
+2,227
+2,228
+2,229
+2,230
+2,231
+2,232
+2,233
+2,234
+2,235
+2,236
+3,1
+3,5
+3,6
+3,7
+3,8
+3,9
+3,10
+3,11
+3,12
+3,13
+3,14
+3,14,#pl-lg,Νόμοι,Platon Phil.
+3,15
+3,16
+3,17
+3,18
+3,18,#phaid-zopyr,Ζώπυρος,Phaidon
+3,19
+3,20
+3,21
+3,22
+3,23
+3,24
+3,25
+3,26
+3,27
+3,27,#hypereid-patrokl,κατὰ Πατροκλέους,Hypereides
+3,27,#theopomp-eir,Εἰρήνη,Theopompos Com.
+3,27,#hypereid-apell,πρὸς Ἀπελλαῖον περὶ θησαυροῦ,Hypereides
+3,28
+3,29
+3,30
+3,31
+3,32
+3,33
+3,34
+3,35
+3,36
+3,37
+3,38
+3,39
+3,40
+3,41
+3,42
+3,43
+3,43,#ar-glauk,Γλαῦκος,Aristophanes
+3,44
+3,45
+3,46
+3,47
+3,48
+3,49
+3,50
+3,51
+3,51,#eur-herakleid,Ἡρακλεῖδαι,Euripides
+3,51,#eur-thes,Θησεύς,Euripides
+3,52
+3,53
+3,54
+3,54,#pl-lg,Νόμοι,Platon Phil.
+3,55
+3,56
+3,57
+3,58
+3,59
+3,60
+3,61
+3,62
+3,63
+3,64
+3,65
+3,66
+3,67
+3,68
+3,69
+3,70
+3,71
+3,72
+3,73
+3,73,#phryn-sat,Σάτυροι,Phrynichos
+3,74
+3,74,#ar-dram_kent,Δράματα ἢ Κένταυρος,Aristophanes
+3,74,#hypereid-doroth,κατὰ Δωροθέου,Hypereides
+3,75
+3,76
+3,76,#lys-kall,κατὰ Καλλίου ὕβρεως,Lysias
+3,77
+3,78
+3,79
+3,80
+3,80,#pher-doul,Δουλοδιδάσκαλος,Pherekrates
+3,81
+3,82
+3,83
+3,84
+3,85
+3,86
+3,86,#ar-kok,Κώκαλος,Aristophanes
+3,86,#ar-nes,Νῆσοι,Aristophanes
+3,87
+3,88
+3,89
+3,90
+3,91
+3,92
+3,93
+3,94
+3,95
+3,96
+3,97
+3,98
+3,99
+3,100
+3,101
+3,102
+3,103
+3,104
+3,105
+3,106
+3,107
+3,108
+3,109
+3,109,#pl-lg,Νόμοι,Platon Phil.
+3,110
+3,111
+3,112
+3,113
+3,114
+3,115
+3,115,#pl-prm,Παρμενίδης,Platon Phil.
+3,116
+3,117
+3,118
+3,119
+3,120
+3,121
+3,122
+3,123
+3,124
+3,125
+3,125,#hypereid-syneg,Συνηγορικός,Hypereides
+3,126
+3,127
+3,127,#xen-paid,Κύρου Παιδεία,Xenophon
+3,128
+3,129
+3,130
+3,131
+3,132
+3,133
+3,133,#pl-phlb,Φίληβος,Platon Phil.
+3,134
+3,135
+3,136
+3,137
+3,138
+3,139
+3,140
+3,141
+3,142
+3,143
+3,144
+3,144,#demosth-erot,Ἐρωτικός,Demosthenes
+3,145
+3,146
+3,147
+3,148
+3,149
+3,150
+3,150,#aristom-dion_ask,Διόνυσος ἀσκητής,Aristomenes
+3,151
+3,152
+3,153
+3,154
+3,155
+3,155,#ar-her,Ἥρωες,Aristophanes
+4,1
+4,2
+4,7
+4,8
+4,9
+4,10
+4,11
+4,12
+4,13
+4,14
+4,15
+4,16
+4,17
+4,18
+4,19
+4,19,#apollg-gram,Γραμματειδιοποιός,Apollodoros Geloos
+4,19,#ar-thesm,Θεσμοφοριάζουσαι Ι or Θεσμοφοριάζουσαι ΙΙ,Aristophanes
+4,20
+4,21
+4,22
+4,23
+4,23,#lys-pantal,κατὰ Πανταλέοντος,Lysias
+4,24
+4,25
+4,26
+4,27
+4,28
+4,29
+4,30
+4,31
+4,32
+4,33
+4,34
+4,35
+4,36
+4,37
+4,38
+4,39
+4,40
+4,40,#pl-tim,Τίμαιος,Platon Phil.
+4,41
+4,42
+4,43
+4,44
+4,45
+4,46
+4,47
+4,48
+4,49
+4,50
+4,51
+4,52
+4,53
+4,54
+4,55
+4,55,#theod-aletis,ἀλῆτις,Theodoros Kolophonios
+4,55,#phryn-kom,Κωμασταί,Phrynichos
+4,56
+4,56,#nikoph-cheirog,Χειρογάστορες,Nikophon
+4,57
+4,58
+4,59
+4,60
+4,61
+4,62
+4,63
+4,64
+4,65
+4,66
+4,67
+4,68
+4,69
+4,70
+4,71
+4,72
+4,73
+4,74
+4,75
+4,75,#soph-tham,Θάμυρις,Sophokles
+4,76
+4,77
+4,78
+4,79
+4,80
+4,81
+4,82
+4,83
+4,84
+4,85
+4,86
+4,87
+4,88
+4,89
+4,90
+4,91
+4,92
+4,92,#archias-epigr,ἐπίγραμμα,
+4,93
+4,94
+4,95
+4,96
+4,97
+4,98
+4,99
+4,100
+4,100,#ar-thesm,Θεσμοφοριάζουσαι Ι or Θεσμοφοριάζουσαι ΙΙ,Aristophanes
+4,101
+4,102
+4,102,#bibasis-epigr,ἐπίγραμμα,Anonymus.Bibasis-epigram
+4,103
+4,104
+4,105
+4,106
+4,107
+4,108
+4,109
+4,109,#aisch-agam,Ἀγαμέμνων,Aischylos
+4,110
+4,110,#aisch-memn,Μέμνων,Aischylos
+4,110,#aisch-eum,Εὐμενίδες,Aischylos
+4,111
+4,111,#eur-dan,Δανάη,Euripides
+4,111,#soph-hippon,Ἱππόνος,Sophokles
+4,112
+4,113
+4,114
+4,115
+4,116
+4,117
+4,118
+4,119
+4,119,#men-sikyon,Σικυώνιος,Menandros
+4,120
+4,121
+4,122
+4,122,#hypereid-patrokl,κατὰ Πατροκλέους,Hypereides
+4,123
+4,124
+4,125
+4,125,#antiph-akestr,Ἀκέστρια,Antiphanes
+4,126
+4,127
+4,128
+4,129
+4,129,#eur-phoin,Φοίνισσαι,Euripides
+4,130
+4,130,#aisch-psychost,Ψυχοστασία,Aischylos
+4,131
+4,132
+4,133
+4,134
+4,135
+4,136
+4,137
+4,138
+4,139
+4,140
+4,141
+4,142
+4,143
+4,144
+4,145
+4,146
+4,147
+4,148
+4,149
+4,150
+4,151
+4,152
+4,153
+4,154
+4,155
+4,156
+4,157
+4,158
+4,159
+4,160
+4,161
+4,162
+4,163
+4,164
+4,165
+4,166
+4,167
+4,168
+4,169
+4,169,#strat-kin,Κινησίας,Strattis
+4,169,#alkl-mel_2,δεύτερον μελῶν,Alkaios Lyr.
+4,169,#hip-iamb_1,πρῶτον τῶν ἰάμβων,Hipponax
+4,170
+4,171
+4,172
+4,173
+4,173,#kephis-hys,Ὗς,Kephisodoros
+4,173,#sosikrates-parakat,Παρακαταθήκη,Sosikrates
+4,174
+4,174,#sophr-mim_gyn,γυναικεῖοι μίμοι,Sophron
+4,174,#sophr-mim_andr,ἀνδρεῖοι (μίμοι),Sophron
+4,174,#dein-med,Μήδεια,Deinolochos
+4,174,#aristot-akrag_pol,Ἀκραγαντίνων πολιτεία,Aristoteles
+4,174,#aristot-himer_pol,Ἱμεραίων πολιτεία,Aristoteles
+4,175
+4,175,#philem-sikel,Σικελικός,Philemon
+4,175,#poseid-gal,Γαλάτης,Poseidippos
+4,176
+4,177
+4,178
+4,179
+4,180
+4,180,#ar-ger,Γῆρας,Aristophanes
+4,181
+4,181,#ar-geryt,Γηρυτάδης,Aristophanes
+4,182
+4,183
+4,183,#antiph-traum,Τραυματίας,Antiphanes
+4,184
+4,185
+4,186
+4,186,#ar-babyl,Βαβυλώνιοι,Aristophanes
+4,187
+4,187,#ar-kok,Κώκαλος,Aristophanes
+4,188
+4,189
+4,190
+4,191
+4,192
+4,193
+4,194
+4,195
+4,196
+4,197
+4,198
+4,199
+4,200
+4,201
+4,202
+4,203
+4,204
+4,205
+4,206
+4,207
+4,208
+5,1
+5,9
+5,10
+5,11
+5,12
+5,13
+5,14
+5,15
+5,16
+5,17
+5,18
+5,19
+5,20
+5,21
+5,22
+5,23
+5,24
+5,25
+5,26
+5,27
+5,28
+5,29
+5,30
+5,31
+5,32
+5,33
+5,34
+5,35
+5,36
+5,37
+5,38
+5,39
+5,40
+5,41
+5,42
+5,43
+5,44
+5,45
+5,46
+5,46,#peisandros-hippaimon-epigr,ἐπίγραμμα,Peisandros
+5,47
+5,47,#simonides-epigr,τοὐπίγραμμα ἐπὶ τῷ τάφῳ τῆς κυνός,Simonides Lyr.,Epigr.
+5,48
+5,49
+5,50
+5,51
+5,52
+5,53
+5,54
+5,55
+5,56
+5,57
+5,58
+5,59
+5,60
+5,61
+5,62
+5,63
+5,64
+5,65
+5,66
+5,67
+5,68
+5,69
+5,70
+5,71
+5,72
+5,73
+5,74
+5,75
+5,76
+5,77
+5,78
+5,79
+5,80
+5,81
+5,82
+5,83
+5,84
+5,85
+5,86
+5,87
+5,88
+5,89
+5,90
+5,91
+5,92
+5,93
+5,95
+5,96
+5,97
+5,98
+5,99
+5,100
+5,100,#philip-adoniaz,Ἀδωνιάζουσαι,Philippides
+5,101
+5,101,#ion-omph,Ὀμφάλῃ,Ion
+5,102
+5,103
+5,104
+5,105
+5,106
+5,107
+5,108
+5,109
+5,110
+5,111
+5,112
+5,113
+5,114
+5,115
+5,116
+5,117
+5,118
+5,119
+5,120
+5,121
+5,122
+5,123
+5,124
+5,125
+5,126
+5,127
+5,128
+5,129
+5,130
+5,131
+5,132
+5,133
+5,134
+5,135
+5,136
+5,137
+5,138
+5,139
+5,140
+5,141
+5,142
+5,143
+5,144
+5,145
+5,146
+5,147
+5,148
+5,149
+5,150
+5,151
+5,152
+5,153
+5,154
+5,155
+5,156
+5,157
+5,158
+5,159
+5,160
+5,161
+5,162
+5,163
+5,164
+5,165
+5,166
+5,167
+5,168
+5,169
+5,170
+6,1
+6,7
+6,8
+6,9
+6,10
+6,10,#eub-agchis,Ἀγχίσης,Euboulos
+6,11
+6,12
+6,13
+6,14
+6,15
+6,16
+6,17
+6,17,#plat-symm,Συμμαχία,Platon Com.
+6,18
+6,18,#krat-hor,Ὧραι,Kratinos
+6,19
+6,20
+6,21
+6,22
+6,23
+6,24
+6,25
+6,26
+6,27
+6,28
+6,29
+6,30
+6,31
+6,32
+6,33
+6,34
+6,35
+6,36
+6,37
+6,38
+6,39
+6,40
+6,41
+6,42
+6,43
+6,44
+6,45
+6,45,#ar-nes,Νῆσοι,Aristophanes
+6,46
+6,46,#xenophanes-phys,περὶ φύσεως,Xenophanes
+6,47
+6,48
+6,48,#krat-dionys,Διονυσαλέξανδρος,Kratinos
+6,49
+6,50
+6,51
+6,52
+6,53
+6,53,#krat-ther,Θηρία,Kratinos
+6,54
+6,54,#philip-aul,Αὐλοί,Philippides
+6,54,#aristot-ha,περὶ ζῴων,Aristoteles
+6,54,#antiph-agr,Ἀγροίκος,Antiphanes
+6,55
+6,56
+6,57
+6,58
+6,59
+6,60
+6,61
+6,62
+6,63
+6,64
+6,65
+6,65,#alex-leb,Λέβης,Alexis
+6,66
+6,66,#antiph-leuk,Λευκαδία,Antiphanes
+6,67
+6,67,#eub-glauk,Γλαῦκος,Euboulos
+6,68
+6,68,#krat-nom,Νόμοι,Kratinos
+6,68,#krat-odys,Ὀδυσσεῖς,Kratinos
+6,69
+6,69,#ar-ger,Γῆρας,Aristophanes
+6,70
+6,71
+6,72
+6,73
+6,74
+6,75
+6,76
+6,77
+6,78
+6,79
+6,80
+6,81
+6,82
+6,83
+6,83,#ar-telm,Τελμισσεῖς,Aristophanes
+6,84
+6,85
+6,86
+6,87
+6,87,#alexandr-epist,πρὸς τὴν μητέρα ἐπιστολή,Alexandros
+6,88
+6,89
+6,90
+6,91
+6,92
+6,93
+6,94
+6,95
+6,96
+6,97
+6,98
+6,98,#krat-cheir,Χείρωνες,Kratinos
+6,98,#antisth-protr,Προτρεπτικός,Antisthenes
+6,99
+6,99,#nikon-kith,Κιθαρῳδό,Nikon
+6,100
+6,101
+6,101,#men-synar,Συναριστῶσαι,Menandros
+6,102
+6,102,#men-orge,Ὀργή,Menandros
+6,103
+6,104
+6,105
+6,105,#pher-ler,Λῆροι,Pherekrates
+6,106
+6,106,#krat-malth,Μαλθακοί,Kratinos
+6,107
+6,108
+6,109
+6,110
+6,111
+6,111,#ar-geryt,Γηρυτάδης,Aristophanes
+6,112
+6,113
+6,114
+6,115
+6,116
+6,117
+6,118
+6,119
+6,120
+6,121
+6,122
+6,123
+6,124
+6,125
+6,126
+6,127
+6,128
+6,129
+6,130
+6,131
+6,132
+6,133
+6,134
+6,135
+6,136
+6,137
+6,138
+6,139
+6,140
+6,141
+6,142
+6,142,#xen-lak_pol,Λακώνων πολιτεία,Xenophon
+6,142,#plat-nyx,Νῦξ μακρά,Platon Com.
+6,143
+6,143,#antiphon_soph-aleth,περὶ ἀληθείας,Antiphon Soph.
+6,143,#antiphon-rhet_techn,ῥητορικαί τέχναι,Antiphon Rhet.
+6,143,#demosth-prooim,συμβουλευτικά προοίμια,Demosthenes
+6,144
+6,144,#pl-lg,Νόμοι,Platon Phil.
+6,145
+6,149
+6,150
+6,146
+6,147
+6,148
+6,151
+6,152
+6,153
+6,154
+6,155
+6,156
+6,157
+6,158
+6,159
+6,160
+6,161
+6,162
+6,163
+6,164
+6,165
+6,166
+6,167
+6,168
+6,168,#polyz-mous,Μουσῶν γοναί,Polyzelos
+6,169
+6,170
+6,171
+6,172
+6,173
+6,174
+6,174,#soph-kre,Κρέουσα,Sophokles
+6,175
+6,176
+6,177
+6,178
+6,179
+6,180
+6,181
+6,182
+6,183
+6,184
+6,185
+6,186
+6,187
+6,187,#eur-orest,Ὀρέστης,Euripides
+6,187,#pl-smp,Συμπόσιον,Platon Phil.
+6,188
+6,189
+6,190
+6,191
+6,193
+6,194
+6,195
+6,196
+6,197
+6,198
+6,199
+6,200
+6,201
+6,202
+6,203
+6,204
+6,205
+6,206
+6,207
+6,208
+6,209
+7,1
+7,6
+7,7
+7,7,#ar-geryt,Γηρυτάδης,Aristophanes
+7,8
+7,9
+7,10
+7,10,#pl-plt,Πολιτικός,Platon Phil.
+7,11
+7,11,#hypereid-aristoph,κατὰ Ἀριστοφῶντος,Hypereides
+7,12
+7,13
+7,13,#ar-hor,Ὧραι,Aristophanes
+7,13,#eup-pol,Πόλεις,Eupolis
+7,14
+7,14,#isaios-andok,πρὸς Ἀνδοκίδην,Isaios
+7,15
+7,15,#lys-aspidop,περὶ τοῦ ἀσπιδοποιοῦ,Lysias
+7,15,#pher-pers,Πέρσαι,Pherekrates
+7,15,#ar-her,Ἥρωες,Aristophanes
+7,16
+7,16,#archip-ichth,Ἰχθύες,Archippos
+7,16,#ar-her,Ἥρωες,Aristophanes
+7,17
+7,17,#pher-myrm,Μυρμηκάνθρωποι,Pherekrates
+7,17,#lys-pyth,πρὸς Πυθόδημον ὑπὲρ ἀποστασίου,Lysias
+7,17,#lys-dioph,ὑπὲρ Διοφάντου περὶ χωρίου,Lysias
+7,17,#amphis-aleiptr,Ἀλείπτρια,Amphis
+7,18
+7,19
+7,20
+7,20,#alex-amphot,Ἀμφωτίς,Alexis
+7,21
+7,21,#phryn-mon,Μονότροπος,Phrynichos
+7,21,#ar-her,Ἥρωες,Aristophanes
+7,22
+7,22,#phryn-poastr,Ποάστριαι,Phrynichos
+7,23
+7,23,#alk-gan,Γανυμήδης,Alkaios Com.
+7,24
+7,24,#ar-dram_kent,Δράματα ἢ Κένταυρος,Aristophanes
+7,24,#ar-ach,Ἀχαρνεῖς,Aristophanes
+7,25
+7,26
+7,27
+7,28
+7,28,#archip-ichth,Ἰχθύες,Archippos
+7,28,#philem-harpaz,Ἁρπαζομένη,Philemon
+7,28,#krat-dionys,Διονυσαλέξανδρος,Kratinos
+7,28,#olymp-epist,ἐπιστολή,Olympias
+7,29
+7,29,#eup-pol,Πόλεις,Eupolis
+7,29,#epigenes-pont,Ποντικός,Epigenes
+7,30
+7,31
+7,31,#aristias-atal,Ἀταλάντη,Aristias
+7,32
+7,33
+7,33,#nikoph-pand,Πανδώρα,Nikophon
+7,33,#xen-apomn,Ἀπομνημονεύματα,Xenophon
+7,34
+7,34,#aischines-timarch,κατὰ Τιμάρχου,Aischines Rhet.
+7,35
+7,35,#aisch-dikt,Δικτυουλκοί,Aischylos
+7,36
+7,37
+7,38
+7,39
+7,39,#ar-lys,Λυσιστράτη,Aristophanes
+7,40
+7,40,#kephis-troph,Τροφώνιος,Kephisodoros
+7,40,#plat-nik,Νίκαι,Platon Com.
+7,40,#nikoch-herakl_gam,Ἡρακλῆς γαμούμνενος,Nikochares
+7,41
+7,41,#krat-kleob,Κλεοβουλίνη,Kratinos
+7,42
+7,43
+7,44
+7,44,#xen-paid,Κύρου Παιδεία,Xenophon
+7,44,#lys-autokr,κατὰ Αὐτοκράτους,Lysias
+7,45
+7,45,#soph-plyntr,Πλύντριαι,Sophokles
+7,45,#thesp-penth,Πενθεύς,Theopompos Com.
+7,45,#nikoch-herakl_chor,Ἡρακλῆς χορηγός,Nikochares
+7,46
+7,47
+7,48
+7,49
+7,50
+7,51
+7,51,#men-rhapiz,Ῥαπιζομένη,Menandros
+7,52
+7,53
+7,54
+7,55
+7,56
+7,57
+7,57,#plat-hier,Αἱ ἀφ᾽ ἱερῶν,Platon Com.
+7,57,#antiph-med,Μήδεια,Antiphanes
+7,58
+7,58,#krat-omph,Ὀμφάλη,Kratinos
+7,59
+7,59
+7,59,#ar-sph,Σφῆκες,Aristophanes
+7,59,#kritias-polit,Πολιτεῖαι,Kritias
+7,59,#antiph-ant,Ἀντεία,Antiphanes
+7,59,#antiph-skyth,Σκύθαι,Antiphanes
+7,60
+7,61
+7,61,#rhinth-iphig,Ἰφιγένεια ἡ ἐν Ταύροις,Rhinthon
+7,62
+7,63
+7,63,#krat-sam,Σάμιοι,Kratinos
+7,63,#archip-plout,Πλοῦτος,Archippos
+7,64
+7,65
+7,65,#arar-kain,Καινεύς,Araros
+7,66
+7,66,#theopomp-paid,Παῖδες,Theopompos Com.
+7,66,#ar-thesm,Θεσμοφοριάζουσαι Ι or Θεσμοφοριάζουσαι ΙΙ,Aristophanes
+7,67
+7,68
+7,68,#soph-kloch,Κολχίδες,Sophokles
+7,68,#xen-paid,Κύρου Παιδεία,Xenophon
+7,69
+7,69,#krat-serif,Σερίφιοι,Kratinos
+7,69,#deinarch-hier,τῆς ἱερείας δοκιμασία,Deinarchos
+7,70
+7,71
+7,71,#ar-plout,Πλοῦτος I or Πλοῦτος II,Aristophanes
+7,72
+7,72,#alex-bom,Βωμός,Alexis
+7,73
+7,73,#pher-myrm,Μυρμηκάνθρωποι,Pherekrates
+7,73,#sapph-mel_5,πέμπτον τῶν μελῶν,Sappho
+7,74
+7,74,#theopomp-odyss,Ὀδυσσεῖς,Theopompos Com.
+7,75
+7,76
+7,77
+7,77,#lysip-bakch,Βάκχαι,Lysippos
+7,78
+7,79
+7,79,#men-misog,Μισογύνης,Menandros
+7,80
+7,81
+7,82
+7,83
+7,83,#ar-batr,Βάτραχοι,Aristophanes
+7,83,#nikoch-kret,Κρῆτες,Nikochares
+7,84
+7,85
+7,86
+7,86,#eup-chrys_gen,Χρυσοῦν γένος,Eupolis
+7,86,#krat-nom,Νόμοι,Kratinos
+7,87
+7,87,#kephis-troph,Τροφώνιος,Kephisodoros
+7,87,#men-misog,Μισογύνης,Menandros
+7,88
+7,89
+7,89,#lysip-bakch,Βάκχαι,Lysippos
+7,89,#hermip-dem,Δημόται,Hermippos
+7,89,#hermip-phorm,Φορμοφόροι,Hermippos
+7,90
+7,90,#eratosth-hermes,Ἑρμῆς,Eratosthenes
+7,90,#rhinth-iphig,Ἰφιγένεια ἡ ἐν Ταύροις,Rhinthon
+7,91
+7,91,#aisch-phin,Φινεύς,Aischylos
+7,92
+7,92,#krat-heort,Ἑορταί,Kratinos
+7,93
+7,94
+7,95
+7,95,#ar-thesm,Θεσμοφοριάζουσαι Ι or Θεσμοφοριάζουσαι ΙΙ,Aristophanes
+7,96
+7,97
+7,98
+7,99
+7,99,#theophr-metal #aristot-metal,περὶ μετάλλων,Theophrastos or Aristoteles
+7,100
+7,100,#ar-daid,Δαίδαλος,Aristophanes
+7,100,#plat-soph,Σοφισταί,Platon Com.
+7,100,#ameips-mych,Μυχοί,Ameipsias
+7,101
+7,102
+7,103
+7,103,#lys-trip,περὶ χρυσοῦ τρίποδος,Lysias
+7,103,#phryn-ephialt,Ἐφιάλτης,Phrynichos
+7,103,#aischin-rhinon,Ῥίνων,Aischines Socr.
+7,103,#krat-troph,Τροφώνιος,Kratinos
+7,104
+7,104,#ar-nes,Νῆσοι,Aristophanes
+7,105
+7,105,#ar-pel,Πελαργοί,Aristophanes
+7,105,#ar-sph,Σφῆκες,Aristophanes
+7,105,#kal-kykl,Κύκλωπες,Kallias
+7,106
+7,106,#eup-tax,Ταξίαρχοι,Eupolis
+7,107
+7,108
+7,108,#philyl-pol,Πόλεις,Philyllios
+7,109
+7,109,#soph-herakleisk,Ἡρακλεΐσκος σατυρικός,Sophokles
+7,110
+7,110,#philyl-pol,Πόλεις,Philyllios
+7,111
+7,111,#poseid-gal,Γαλάτης,Poseidippos
+7,112
+7,113
+7,113,#ar-lys,Λυσιστράτη,Aristophanes
+7,113,#kal-ped,Πεδῆται,Kallias
+7,114
+7,115
+7,115,#ar-plout,Πλοῦτος I or Πλοῦτος II,Aristophanes
+7,116
+7,116,#kal-kykl,Κύκλωπες,Kallias
+7,117
+7,117,#soph-daid,Δαίδαλος,Sophokles
+7,117,#ar-daid,Δαίδαλος,Aristophanes
+7,117,#ar-geryt,Γηρυτάδης,Aristophanes
+7,117,#pl-r_2,δεύτερον Πολιτείας,Platon Phil.
+7,118
+7,118,#xen-oik,Οἰκονομικός,Xenophon
+7,118,#xen-paid_3,τρίτον τῆς Κύρου Παιδείας,Xenophon
+7,118,#demosth-euerg,κατ᾽ Εὐέργου καὶ Μνησιβούλου,Demosthenes
+7,119
+7,119,#hypereid-epikl,πρὸς Ἐπικλέα,Hypereides
+7,120
+7,120,#lys-typ,περὶ τοῦ τύπου,Lysias
+7,121
+7,121,#plat-heort,Ἑορταί,Platon Com.
+7,122
+7,122,#krat-dionys,Διονυσαλέξανδρος,Kratinos
+7,122,#aisch-thalam,Θαλαμοποιοί,Aischylos
+7,123
+7,123,#eup-bapt,Βάπται,Eupolis
+7,123,#eup-dem,Δῆμοι,Eupolis
+7,124
+7,125
+7,125,#amphis-kon,Κονιατής,Amphis
+7,125,#ar-ger,Γῆρας,Aristophanes
+7,126
+7,127
+7,128
+7,129
+7,130
+7,130,#lys-metan,πρὸς Μετάνειραν ἐπιστολή,Lysias
+7,131
+7,131,#aisch-phryges,Φρύγες ἢ Λύτρα,Aischylos
+7,132
+7,132,#pl-zeus_kak,Ζεῦς κακούμενος,Platon Com.
+7,133
+7,133,#ar-her,Ἥρωες,Aristophanes
+7,133,#eup-philoi,Φίλοι,Eupolis
+7,134
+7,134,#strat-philokt,Φιλοκτήτης,Strattis
+7,135
+7,135,#telekl-pryt,Πρυτάνεις,Telekleides
+7,135,#aischin-axioch,Ἀξίοχος,Aischines Socr.
+7,136
+7,136,#phryn-kron,Κρόνος,Phrynichos
+7,137
+7,137,#lykourg-menes,κατὰ Μενεσαίχμου,Lykourgos
+7,138
+7,139
+7,139,#ar-lemn,Λήμνιαι,Aristophanes
+7,140
+7,141
+7,142
+7,143
+7,144
+7,145
+7,146
+7,147
+7,148
+7,149
+7,149,#hypereid-lysid,πρὸς Λυσίδημον,Hypereides
+7,149,#hypereid-thas,πρὸς Θασίους,Hypereides
+7,149,#ar-geryt,Γηρυτάδης,Aristophanes
+7,149,#ar-tagen,Ταγηνισταί,Aristophanes
+7,150
+7,150,#pher-autom,Αὐτόμολοι,Pherekrates
+7,151
+7,151,#isaios-diokl_hybr,πρὸς Διοκλέα ὕβρεως,Isaios
+7,152
+7,152,#ar-lemn,Λήμνιαι,Aristophanes
+7,152,#pher-krapat,Κραπάταλοι,Pherekrates
+7,152,#ar-lemn,Λήμνιαι,Aristophanes
+7,153
+7,153,#ar-dait,Δαιταλεῖς,Aristophanes
+7,154
+7,155
+7,155,#lys-aspidop,περὶ τοῦ ἀσπιδοποιοῦ,Lysias
+7,156
+7,157
+7,157,#ar-sken,Σκηνὰς καταλαμβάνουσαι,Aristophanes
+7,158
+7,158,#theopomp-kapel,Καπηλίδες,Theopompos Com.
+7,159
+7,159,#krat-dionys,Διονυσαλέξανδρος,Kratinos
+7,160
+7,161
+7,162
+7,162,#ar-kok,Κώκαλος,Aristophanes
+7,163
+7,163,#pher-pet,Πετάλη,Pherekrates
+7,164
+7,164,#eup-dem,Δῆμοι,Eupolis
+7,164,#krat-hor,Ὧραι,Kratinos
+7,164,#ar-ach,Ἀχαρνεῖς,Aristophanes
+7,164,#ar-anag,Ἀνάγυρος,Aristophanes
+7,165
+7,166
+7,166,#alex-kaun,Καύνιοι,Alexis
+7,166,#ar-lemn,Λήμνιαι,Aristophanes
+7,167
+7,167,#ar-her,Ἥρωες,Aristophanes
+7,167,#anaxil-loutr,Λουτροποιός,Anaxilas
+7,168
+7,168,#eup-diait,Διαιτῶν,Eupolis
+7,168,#ar-dait,Δαιταλεῖς,Aristophanes
+7,168,#ar-tagen,Ταγηνισταί,Aristophanes
+7,168,#eup-tax,Ταξίαρχοι,Eupolis
+7,169
+7,170
+7,170,#antiph-byz,Βυζάντιος,Antiphanes
+7,170,#lys-trip,περὶ χρυσοῦ τρίποδος,Lysias
+7,170,#amphis-ampel,Ἀμπελουργός,Amphis
+7,170,#antiph-kykl,Κύκλωψ,Antiphanes
+7,171
+7,171,#pl-tim,Τίμαιος,Platon Phil.
+7,171,#krat-malth,Μαλθακοί,Kratinos
+7,172
+7,172,#pl-smp,Συμπόσιον,Platon Phil.
+7,173
+7,174
+7,175
+7,175,#ar-batr,Βάτραχοι,Aristophanes
+7,176
+7,176,#ar-sph,Σφῆκες,Aristophanes
+7,176,#ar-geryt,Γηρυτάδης,Aristophanes
+7,176,#ar-dait,Δαιταλεῖς,Aristophanes
+7,177
+7,177,#ar-dait,Δαιταλεῖς,Aristophanes
+7,178
+7,178,#phryn-mon,Μονότροπος,Phrynichos
+7,178,#eur-ino,Ἰνώ,Euripides
+7,179
+7,179,#krat-geit,Γείτονες,Kratinos
+7,180
+7,181
+7,181,#ar-amph,Ἀμφιάραος,Aristophanes
+7,181,#ar-sph,Σφῆκες,Aristophanes
+7,181,#theopomp-seir,Σειρῆνες,Theopompos Com.
+7,182
+7,182,#pl-r_2,δεύτερον Πολιτείας,Platon Phil.
+7,183
+7,184
+7,185
+7,186
+7,186,#plat-heort,Ἑορταί,Platon Com.
+7,187
+7,187,#ar-hor,Ὧραι,Aristophanes
+7,188
+7,188,#magn-lyd,Λυδοί,Magnes
+7,189
+7,190
+7,190,#alex-ekpom,Ἐκπωματοποιός,Alexis
+7,190,#apollg-gram,Γραμματειδιοποιός,Apollodoros Geloos
+7,191
+7,191,#demosth-olympiod,κατὰ Ὀλυμπιοδώρου,Demosthenes
+7,191,#hypereid-mik,ὑπὲρ Μίκας,Hypereides
+7,192
+7,192,#eup-kol,Κόλακες,Eupolis
+7,192,#antiph-phaon,Φάων,Antiphanes
+7,192,#philyl-freor,Φρεωρύχος,Philyllios
+7,193
+7,193,#pher-agr,Ἄγριοι,Pherekrates
+7,193,#soph-phin,Φινεύς,Sophokles
+7,194
+7,195
+7,195,#phryn-trag,Τραγῳδοί,Phrynichos
+7,196
+7,197
+7,198
+7,198,#pher-agath,Ἀγαθοί,Pherekrates
+7,198,#krat-dionys,Διονυσαλέξανδρος,Kratinos
+7,198,#hermip-artop,Ἀρτοπώλιδες,Hermippos
+7,199
+7,199,#ar-dan,Δαναΐδες,Aristophanes
+7,199,#ar-phoin,Φοίνισσαι,Aristophanes
+7,199,#archip-rhinon,Ῥίνων,Archippos
+7,199,#hermip-moir,Μοῖραι,Hermippos
+7,200
+7,200,#lys-autokl,κατὰ Αὐτοκλέους,Lysias
+7,201
+7,201,#eud-nauk,Ναύκληρος,Eudoxos
+7,202
+7,202,#ar-geor,Γεωργοί,Aristophanes
+7,202,#philon-koth,Κόθορνοι,Philonides
+7,202,#hermip-artop,Ἀρτοπώλιδες,Hermippos
+7,202,#ar-sken,Σκηνὰς καταλαμβάνουσαι,Aristophanes
+7,202,#eup-autol_1,Αὐτόλυκος πρῶτος,Eupolis
+7,202,#plat-symm,Συμμαχία,Platon Com.
+7,202,#aischines-ktesiph,κατὰ Κτησιφῶντος,Aischines Rhet.
+7,203
+7,203,#phryn-mous,Μοῦσαι,Phrynichos
+7,203,#amphis-kyb,Κυβευταί,Amphis
+7,204
+7,204,#krat-geit,Γείτονες,Kratinos
+7,205
+7,205,#amphis-kyb,Κυβευταί,Amphis
+7,206
+7,207
+7,208
+7,209
+7,210
+7,211
+7,211,#aristom-goe,Γόητες,Aristomenes
+7,211,#krat-cheir,Χείρωνες,Kratinos
+7,211,#antiph-sapph,Σαπφώ,Antiphanes
+7,211,#kratj-hypob,Ὑποβολιμαῖος,Kratinos Jun.
+7,211,#antiph-myl,Μύλων,Antiphanes
+8,1
+8,6
+8,7
+8,8
+8,9
+8,10
+8,11
+8,12
+8,13
+8,14
+8,15
+8,16
+8,17
+8,18
+8,19
+8,20
+8,21
+8,22
+8,23
+8,24
+8,25
+8,26
+8,27
+8,28
+8,29
+8,30
+8,31
+8,32
+8,33
+8,34
+8,34,#solon-nom,νόμοι,Solon
+8,35
+8,36
+8,37
+8,38
+8,39
+8,40
+8,41
+8,42
+8,43
+8,44
+8,45
+8,46
+8,46,#lys-theodot,κατὰ Θεοδοτίδου,Lysias
+8,46,#lys-hippokr,πρὸς Ἱπποκράτην αἰκίας,Lysias
+8,47
+8,48
+8,48,#isaios-eukl,πρὸς Εὐκλείδην περὶ χωρίου,Isaios
+8,49
+8,50
+8,51
+8,52
+8,52,#theophr-nom_1,πρῶτον περὶ Νόμων,Theophrastos
+8,52,#hypereid-lykophr,ὑπὲρ Λυκόφρονος,Hypereides
+8,53
+8,53,#demosth-med,κατὰ Μέδοντος,Demosthenes
+8,54
+8,55
+8,56
+8,57
+8,58
+8,59
+8,60
+8,61
+8,62
+8,63
+8,64
+8,65
+8,66
+8,67
+8,68
+8,69
+8,70
+8,71
+8,72
+8,73
+8,74
+8,75
+8,76
+8,77
+8,78
+8,79
+8,80
+8,81
+8,82
+8,83
+8,84
+8,85
+8,86
+8,87
+8,88
+8,89
+8,90
+8,91
+8,92
+8,93
+8,94
+8,95
+8,96
+8,97
+8,98
+8,99
+8,100
+8,101
+8,102
+8,103
+8,104
+8,105
+8,106
+8,107
+8,108
+8,109
+8,110
+8,111
+8,112
+8,113
+8,114
+8,115
+8,116
+8,117
+8,118
+8,119
+8,120
+8,121
+8,122
+8,123
+8,124
+8,125
+8,126
+8,127
+8,128
+8,129
+8,130
+8,131
+8,131,#anthemion-epigr,ἐπίγραμμα,Anonymus.Athemion-epigram
+8,132
+8,133
+8,134
+8,135
+8,136
+8,137
+8,138
+8,139
+8,140
+8,141
+8,142
+8,142,#hypereid-charet,πρὸς Χάρητα,Hypereides
+8,143
+8,144
+8,145
+8,146
+8,147
+8,148
+8,149
+8,150
+8,151
+8,152
+8,153
+8,154
+8,155
+8,156
+8,157
+9,1
+9,1,#gorg-onom,Ὀνομαστικόν βιβλίον,Gorgias Leontinos
+9,6
+9,7
+9,8
+9,9
+9,10
+9,11
+9,12
+9,13
+9,14
+9,15
+9,15,#theophilos-pagkr,Παγκρατιαστής,Theophilos
+9,15,#krit-ait,Αἰτωλοί,Kriton
+9,16
+9,16,#theopomp-pantal,Πανταλέων,Theopompos Com.
+9,16,#pl-tht,Θεαίτητος,Platon Phil.
+9,17
+9,18
+9,19
+9,20
+9,21
+9,22
+9,23
+9,24
+9,25
+9,26
+9,26,#epich-harp,Ἁρπαγαί,Epicharmos
+9,26,#eup-chrys_gen,Χρυσοῦν γένος,Eupolis
+9,26,#sannyr-gel,Γέλως,Sannyrion
+9,27
+9,27,#eup-dia,Διάς,Eupolis
+9,27,#eur-ixion,Ἰξίων,Euripides
+9,27,#eur-temen,Τημενίδαι,Euripides
+9,28
+9,28,#ar-babyl,Βαβυλώνιοι,Aristophanes
+9,28,#poseid-kod,Κώδων,Poseidippos
+9,29
+9,29,#antiph-hal,Ἁλιευομένη,Antiphanes
+9,29,#anaxil-glauk,Γλαύκος,Anaxilas
+9,29,#philon-koth,Κόθορνοι,Philonides
+9,30
+9,30,#eup-autol_1_2,Αὐτόλυκος,Eupolis
+9,30,#philip-synekpl,Συνεκπλέουσα,Philippides
+9,31
+9,31,#ar-polyid,Πολύιδος,Aristophanes
+9,32
+9,33
+9,34
+9,34,#hypereid-tarich,περὶ τοῦ ταρίχους,Hypereides
+9,35
+9,36
+9,36,#ar-thesm,Θεσμοφοριάζουσαι Ι or Θεσμοφοριάζουσαι ΙΙ,Aristophanes
+9,36,#hypereid-pasikl,περὶ ἀντιδόσεως πρὸς Πασικλέα,Hypereides
+9,36,#ar-dram_kent,Δράματα ἢ Κένταυρος,Aristophanes
+9,36,#ar-lys,Λυσιστράτη,Aristophanes
+9,37
+9,37,#ion-phoinix,Φοίνιξ,Ion
+9,37,#eup-kol,Κόλακες,Eupolis
+9,38
+9,38,#philem-paneg,Πανήγυρις,Philemon
+9,38,#philip-phileur,Φιλευριπίδης,Philippides
+9,38,#philip-lak,Λακιάδαι,Philippides
+9,39
+9,39,#ar-ger,Γῆρας,Aristophanes
+9,39,#demosth-olympiod,κατὰ Ὀλυμπιοδώρου,Demosthenes
+9,39,#lys-phil,πρὸς Φίλωνα ὑπὲρ Θεοκλείδου φόνου,Lysias
+9,40
+9,40,#epich-odys_autom,Ὀδυσσεύς αὐτόμολος,Epicharmos
+9,42
+9,42,#epich-harp,Ἁρπαγαί,Epicharmos
+9,42,#sophsoun-nom,νόμος Ἀττικὸς κατὰ τῶν φιλοσοφούντων γραφείς,Sophokles Amphikleidou
+9,43
+9,43,#eup-dem,Δῆμοι,Eupolis
+9,43,#xen-ath_pol,Ἀθηναίων πολιτεία,Xenophon
+9,43,#xen-oik,Οἰκονομικός,Xenophon
+9,43,#aristias-orph,Ὀρφεύς,Aristias
+9,44
+9,44,#alex-gyn,Γυναικοκρατία,Alexis
+9,45
+9,45,#men-eun,Εὐνοῦχος,Menandros
+9,45,#epich-bous,Βούσιρις,Epicharmos
+9,45,#demosth-phorm,πρὸς Φορμίωνα περὶ δανείου,Demosthenes
+9,46
+9,46,#pl-prt,Πρωταγόρας,Platon Phil.
+9,46,#pl-lg,Νόμοι,Platon Phil.
+9,46,#thouk-hist_3,τρίτον βιβλίον,Thoukydides
+9,46,#ar-geryt,Γηρυτάδης,Aristophanes
+9,47
+9,48
+9,48,#antiph-strat,Στρατιώτης,Antiphanes
+9,49
+9,49,#soph-lak,Λάκαιναι,Sophokles
+9,49,#pl-lg,Νόμοι,Platon Phil.
+9,50
+9,50,#soph-inach,Ἴναχος,Sophokles
+9,50,#eur-hippol,Ἱππόλυτος καλυπτόμενος,Euripides
+9,50,#lys-achilleid,ὑπὲρ Ἀχιλλείδου φόνου,Lysias
+9,51
+9,52
+9,53
+9,53,#krat-tolm,Τόλμαι,Kratinos
+9,53,#alk-endym,Ἐνδυμίων,Alexis
+9,53,#ar-dram_kent,Δράματα ἢ Κένταυρος,Aristophanes
+9,54
+9,55
+9,56
+9,56,#herodot-hist_5,πέμπτον βιβλίον,Herodotos
+9,57
+9,57,#lys-autokr,κατὰ Αὐτοκράτους,Lysias
+9,57,#sosikrates-parakat,Παρακαταθήκη,Sosikrates
+9,58
+9,58,#ar-batr,Βάτραχοι,Aristophanes
+9,58,#eup-dem,Δῆμοι,Eupolis
+9,58,#eup-tax,Ταξίαρχοι,Eupolis
+9,59
+9,59,#anax-agchis,Ἀγχίσης,Anaxandrides
+9,59,#theopomp-kallaischr,Κάλλαισχρος,Theopompos Com.
+9,59,#eup-kol,Κόλακες,Eupolis
+9,60
+9,60,#ar-holk,Ὁλκάδες,Aristophanes
+9,61
+9,61,#drakon-nom,νόμοι,Drakon
+9,62
+9,62,#krat-lam,Λάμια,Kratinos
+9,63
+9,63,#ar-aiol,Αἰολοσίκων,Aristophanes
+9,64
+9,64,#theopomp-srat,Στρατιώτιδες,Theopompos Com.
+9,64,#ar-batr,Βάτραχοι,Aristophanes
+9,64,#ar-anag,Ἀνάγυρος,Aristophanes
+9,65
+9,65,#philem-sard,Σάρδιος,Philemon
+9,66
+9,66,#philem-pitt,Πιττοκοπούμενος,Philemon
+9,67
+9,67,#philem-pitt,Πιττοκοπούμενος,Philemon
+9,68
+9,69
+9,69,#ar-thesm,Θεσμοφοριάζουσαι Ι or Θεσμοφοριάζουσαι ΙΙ,Aristophanes
+9,69,#eup-dem,Δῆμοι,Eupolis
+9,69,#ar-geor,Γεωργοί,Aristophanes
+9,70
+9,70,#aristoph-didym,Δίδυμαι ἢ Πύραυνος,Aristophon
+9,71
+9,71,#hermip-phorm,Φορμοφόροι,Hermippos
+9,71,#hermip-dem,Δημόται,Hermippos
+9,72
+9,72,#ar-anag,Ἀνάγυρος,Aristophanes
+9,72,#archip-herakl,Ἡρακλῆς γαμῶν,Archippos
+9,73
+9,73,#eup-heil,Εἵλωτες,Eupolis
+9,75
+9,75,#eur-skir,Σκίρων,Euripides
+9,76
+9,76,#eub-agchis,Ἀγχίσης,Euboulos
+9,76,#men-parakatath,Παρακαταθήκη,Menandros
+9,77
+9,77,#aristot-sik_pol,Σικυωνίων πολιτεία,Aristoteles
+9,78
+9,78,#strat-myrm,Μυρμιδόνες,Strattis
+9,79
+9,79,#epich-chytr,Χύτραι,Epicharmos
+9,80
+9,80,#aristot-tar_pol,Ταραντίνων πολιτεία,Aristoteles
+9,80,#aristot-akrag_pol,Ἀκραγαντίνων πολιτεία,Aristoteles
+9,80,#aristot-himer_pol,Ἱμεραίων πολιτεία,Aristoteles
+9,81
+9,81,#diph-sikel,Σικελικός,Diphilos
+9,81,#epich-harp,Ἁρπαγαί,Epicharmos
+9,82
+9,83
+9,83,#pher-krapat,Κραπάταλοι,Pherekrates
+9,84
+9,85
+9,86
+9,87
+9,88
+9,88,#amphis-ampel,Ἀμπελουργός,Amphis
+9,88,#antiph-kykl,Κύκλωψ,Antiphanes
+9,88,#philip-phileur,Φιλευριπίδης,Philippides
+9,88,#ar-dait,Δαιταλεῖς,Aristophanes
+9,89
+9,89,#ar-sph,Σφῆκες,Aristophanes
+9,89,#ar-aiol,Αἰολοσίκων,Aristophanes
+9,89,#ar-nes,Νῆσοι,Aristophanes
+9,90
+9,90,#eup-kol,Κόλακες,Eupolis
+9,90,#ar-triph,Τριφάλης,Aristophanes
+9,90,#ar-batr,Βάτραχοι,Aristophanes
+9,91
+9,91,#eub-pamph,Πάμφιλος,Euboulos
+9,91,#krat-thrat,Θρᾴτται,Kratinos
+9,92
+9,92,#epich-pers,Πέρσαι,Epicharmos
+9,92,#ar-ekkl,Ἐκκλησιάζουσαι,Aristophanes
+9,93
+9,93,#kallisthenes-apophth,Ἀποφθέγματα,Kallisthenes
+9,94
+9,95
+9,96
+9,96,#ameips-sphend,Σφενδόνη,Ameipsias
+9,97
+9,98
+9,99
+9,100
+9,101
+9,101,#ar-plout,Πλοῦτος I or Πλοῦτος II,Aristophanes
+9,102
+9,102,#eup-tax,Ταξίαρχοι,Eupolis
+9,103
+9,104
+9,105
+9,106
+9,106,#hom-phaiak,Φαίακες,Homeros
+9,107
+9,108
+9,109
+9,110
+9,111
+9,111,#pl-phdr,Φαῖδρος,Platon Phil.
+9,112
+9,113
+9,114
+9,114,#krat-paid,Παιδιαί,Krates
+9,115
+9,115,#krat-paid,Παιδιαί,Krates
+9,116
+9,117
+9,118
+9,119
+9,120
+9,121
+9,122
+9,123
+9,123,#strat-phoin,Φοίνισσαι,Strattis
+9,124
+9,125
+9,126
+9,126,#hermip-theoi,Θεοί,Hermippos
+9,126,#ar-lemn,Λήμνιαι,Aristophanes
+9,127
+9,128
+9,129
+9,130
+9,130,#ar-polyid,Πολύιδος,Aristophanes
+9,131
+9,131,#krat-hor,Ὧραι,Kratinos
+9,131,#ar-thesm,Θεσμοφοριάζουσαι Ι or Θεσμοφοριάζουσαι ΙΙ,Aristophanes
+9,132
+9,133
+9,134
+9,134,#pl-lg_2,δεύτερον τῶν Νόμων,Platon Phil.
+9,134,#pl-lg_2,δεύτερον τῶν Νόμων,Platon Phil.
+9,135
+9,136
+9,136,#ar-neph,Νεφέλαι,Aristophanes
+9,136,#aisch-ker,Κήρυκες,Aischylos
+9,137
+9,137,#hypereid-lykophr,ὑπὲρ Λυκόφρονος,Hypereides
+9,138
+9,138,#pl-phdr,Φαῖδρος,Platon Phil.
+9,138,#ameips-sapph,Σαπφώ,Ameipsias
+9,139
+9,139,#ar-plout,Πλοῦτος I or Πλοῦτος II,Aristophanes
+9,140
+9,140,#soph-prokr,Προκρίς,Sophokles
+9,141
+9,142
+9,143
+9,144
+9,145
+9,146
+9,146,#eup-dem,Δῆμοι,Eupolis
+9,147
+9,148
+9,148
+9,149
+9,150
+9,151
+9,152
+9,153
+9,153,#alex-poietr,Ποιήτρια,Alexis
+9,153,#alex-didym,Δίδυμαι,Alexis
+9,154
+9,154,#ar-hip,Ἱππεῖς,Aristophanes
+9,154,#lys-achilleid,ὑπὲρ Ἀχιλλείδου φόνου,Lysias
+9,155
+9,156
+9,156,#hypereid-lykophr,ὑπὲρ Λυκόφρονος,Hypereides
+9,156,#aisch-prom,Προμηθεύς,Aischylos
+9,156,#soph-naupl,Ναύπλιος,Sophokles
+9,157
+9,158
+9,159
+9,160
+9,161
+9,162
+10,1
+10,1,#xen-hipp,Ἱππικά,Xenophon
+10,1,#eartosth-skeuogr,Σκευογραφικός,Eratosthenes
+10,2
+10,10
+10,10,#aisch-psychag,Ψυχαγωγοί,Aischylos
+10,10,#aischines-ktesiph,κατὰ Κτησιφῶντος,Aischines Rhet.
+10,10,#eup-kol,Κόλακες,Eupolis
+10,11
+10,11,#isaios-diokl_chor,πρὸς Διοκλέα περὶ χωρίου,Isaios
+10,11,#alk-pasiph,Πασιφάη,Alkaios Com.
+10,11,#plat-hell,Ἑλλάς,Platon Com.
+10,12
+10,12,#men-perinth,Περινθία,Menandros
+10,12,#diph-apolip,Ἀπολίπουσα,Diphilos
+10,12,#ar-ekkl,Ἐκκλησιάζουσαι,Aristophanes
+10,13
+10,14
+10,14,#ar-batr,Βάτραχοι,Aristophanes
+10,15
+10,15,#isaios-archepol,περὶ τοῦ Ἀρχεπόλιδος κλήρου,Isaios
+10,15,#isaios-lysib,πρὸς Λυσίβιον,Isaios
+10,15,#hypereid-dem,πρὸς Δημέαν,Hypereides
+10,16
+10,16,#krat-panopt,Πανόπται,Kratinos
+10,16,#xen-paid_6,ἕκτον τῆς Κύρου Παιδείας,Xenophon
+10,17
+10,17,#pl-zeus_kak,Ζεῦς κακούμενος,Platon Com.
+10,17,#ar-phoin,Φοίνισσαι,Aristophanes
+10,17,#ar-batr,Βάτραχοι,Aristophanes
+10,17,#eup-tax,Ταξίαρχοι,Eupolis
+10,18
+10,18,#alex-kalas,Καλάσιρις,Alexis
+10,18,#diph-main,Μαινόμενος,Diphilos
+10,18,#men-synar,Συναριστῶσαι,Menandros
+10,19
+10,19,#hip-iamb_2,δεύτερον τῶν ἰάμβων,Hipponax
+10,19,#theophr-nom_10,δέκατον Νόμων,Theophrastos
+10,20
+10,20,#aisch-sisyph,Σίσυφος,Aischylos
+10,21
+10,21,#antiph-obrim,Ὄβριμος,Antiphanes
+10,21,#theano-timar,ἐπιστολή πρὸς Τιμαρέταν,Theano
+10,21,#alex-tarant,Ταραντίνοι,Alexis
+10,22
+10,22,#poseid-gal,Γαλάτης,Poseidippos
+10,22,#ar-sph,Σφῆκες,Aristophanes
+10,23
+10,23,#herodot-hist_6,ἕκτον βιβλίον,Herodotos
+10,23,#lys-philip,πρὸς Φίλιππον,Lysias
+10,24
+10,24,#ar-aiol,Αἰολοσίκων,Aristophanes
+10,24,#plat-met,Μέτοικοι,Platon Com.
+10,25
+10,25,#krat-dionys,Διονυσαλέξανδρος,Kratinos
+10,25,#ar-aiol,Αἰολοσίκων,Aristophanes
+10,25,#ar-lemn,Λήμνιαι,Aristophanes
+10,26
+10,26,#ar-dan,Δαναΐδες,Aristophanes
+10,27
+10,28
+10,28,#eup-kol,Κόλακες,Eupolis
+10,29
+10,29,#ar-sken,Σκηνὰς καταλαμβάνουσαι,Aristophanes
+10,29,#archip-ichth,Ἰχθύες,Archippos
+10,30
+10,31
+10,31,#hypereid-ochet,περὶ ὀχετοῦ,Hypereides
+10,31,#ar-ekkl,Ἐκκλησιάζουσαι,Aristophanes
+10,32
+10,32,#ar-lys,Λυσιστράτη,Aristophanes
+10,32,#ar-dait,Δαιταλεῖς,Aristophanes
+10,32,#krat-odys,Ὀδυσσεῖς,Kratinos
+10,33
+10,33,#ar-dion_nau,Διόνυσος ναυαγός,Aristophanes
+10,34
+10,34,#soph-ichn,Ἰχνευταί σάτυροι,Sophokles
+10,34,#krat-dionys,Διονυσαλέξανδρος,Kratinos
+10,34,#plat-heort,Ἑορταί,Platon Com.
+10,35
+10,35,#ar-ach,Ἀχαρνεῖς,Aristophanes
+10,35,#krit-messen,Μεσσηνία,Kriton
+10,35,#rhinth-teleph,Τήλεφος,Rhinthon
+10,35,#eur-skir,Σκίρων,Euripides
+10,36
+10,36,#ar-orn,Ὄρνιθες,Aristophanes
+10,37
+10,37,#ar-lys,Λυσιστράτη,Aristophanes
+10,37,#philip-lak,Λακιάδαι,Philippides
+10,38
+10,38,#diph-kith,Κιθαρῳδός,Diphilos
+10,38,#ar-babyl,Βαβυλώνιοι,Aristophanes
+10,38,#ar-dan,Δαναΐδες,Aristophanes
+10,39
+10,39,#eup-kol,Κόλακες,Eupolis
+10,39,#soph-iokles,Ἰοκλῆς,Sophokles
+10,39,#hypereid-mik,ὑπὲρ Μίκας,Hypereides
+10,40
+10,40,#ar-amph,Ἀμφιάραος,Aristophanes
+10,40,#antiph-phaon,Φάων,Antiphanes
+10,40,#krat-hor,Ὧραι,Kratinos
+10,41
+10,41,#theopomp-pantal,Πανταλέων,Theopompos Com.
+10,42
+10,42,#philistos-hist_6,ἕκτῃ (ἱστοριῶν),Philistos
+10,42,#simyl-megar,Μεγαρική,Simylos
+10,43
+10,43,#chion-her,Ἥρωες,Chionides
+10,44
+10,44,#soph-pand,Πανδώρα,Sophokles
+10,44,#ar-proag,Προάγων,Aristophanes
+10,45
+10,45,#pher-krapat,Κραπάταλοι,Pherekrates
+10,45,#eup-autol_1_2,Αὐτόλυκος,Eupolis
+10,45,#ar-polyid,Πολύιδος,Aristophanes
+10,46
+10,46,#anaxil-loutr,Λουτροποιός,Anaxilas
+10,46,#antiph-traum,Τραυματίας,Antiphanes
+10,47
+10,47,#ar-neph,Νεφέλαι,Aristophanes
+10,47,#pher-agath,Ἀγαθοί,Pherekrates
+10,47,#eup-autol_1_2,Αὐτόλυκος,Eupolis
+10,47,#ar-nes,Νῆσοι,Aristophanes
+10,47,#ar-tagen,Ταγηνισταί,Aristophanes
+10,48
+10,48,#pl-euthd,Εὐθύδημος,Platon Phil.
+10,48,#ar-plout,Πλοῦτος I or Πλοῦτος II,Aristophanes
+10,49
+10,49,#ar-batr,Βάτραχοι,Aristophanes
+10,49,#theopomp-pamph,Παμφίλη,Theopompos Com.
+10,50
+10,50,#men-misog,Μισογύνης,Menandros
+10,50,#pl-smp,Συμπόσιον,Platon Phil.
+10,50,#krat-malth,Μαλθακοί,Kratinos
+10,50,#lysip-bakch,Βάκχαι,Lysippos
+10,51
+10,52
+10,52,#soph-naus,Ναυσικάα,Sophokles
+10,52,#men-hal,Ἁλιεῖς,Menandros
+10,52,#xen-paid,Κύρου Παιδεία,Xenophon
+10,54
+10,54,#plat-heort,Ἑορταί,Platon Com.
+10,54,#ar-anag,Ἀνάγυρος,Aristophanes
+10,54,#pher-doul,Δουλοδιδάσκαλος,Pherekrates
+10,54,#krat-tolm,Τόλμαι,Kratinos
+10,55
+10,55,#strat-chrysip,Χρύσιππος,Strattis
+10,55,#ar-anag,Ἀνάγυρος,Aristophanes
+10,55,#soph-oinom,Οἰνόμαος,Sophokles
+10,55,#ar-anag,Ἀνάγυρος,Aristophanes
+10,56
+10,56,#plat-kleoph,Κλεοφῶν,Platon Com.
+10,56,#ar-anag,Ἀνάγυρος,Aristophanes
+10,57
+10,58
+10,58,#ar-thesm,Θεσμοφοριάζουσαι Ι or Θεσμοφοριάζουσαι ΙΙ,Aristophanes
+10,58,#philyl-pol,Πόλεις,Philyllios
+10,58,#krat-pytin,Πυτίνη,Kratinos
+10,59
+10,59,#ar-geryt,Γηρυτάδης,Aristophanes
+10,59,#ar-lys,Λυσιστράτη,Aristophanes
+10,59,#anax-zogr,Ζῳγράφοι ἢ Γεωγράφοι,Anaxandrides
+10,60
+10,60,#eratosth-komod,τὰ περὶ κωμῳδίας,Eratosthenes
+10,61
+10,61,#ar-her,Ἥρωες,Aristophanes
+10,61,#ar-ger,Γῆρας,Aristophanes
+10,62
+10,62,#ar-nes,Νῆσοι,Aristophanes
+10,62,#diph-kith,Κιθαρῳδός,Diphilos
+10,62,#demosth-kon,κατὰ Κόνωνος,Demosthenes
+10,62,#antiph-athamas,Ἀθάμας,Antiphanes
+10,63
+10,63,#eup-chrys_gen,Χρυσοῦν γένος,Eupolis
+10,63,#eup-tax,Ταξίαρχοι,Eupolis
+10,64
+10,64,#krat-her,Ἥρωες,Kratinos
+10,64,#aisch-prom_pyrk,Προμηθεύς Πυρκαεύς,Aischylos
+10,65
+10,65,#antiph-bous,Βούσιρις,Antiphanes
+10,66
+10,67
+10,67,#krat-thrat,Θρᾴτται,Kratinos
+10,67,#ar-sken,Σκηνὰς καταλαμβάνουσαι,Aristophanes
+10,67,#krat-pytin,Πυτίνη,Kratinos
+10,67,#antiph-myst,Μύστις,Antiphanes
+10,68
+10,68,#ar-ach,Ἀχαρνεῖς,Aristophanes
+10,68,#antisth-protr,Προτρεπτικός,Antisthenes
+10,68,#telekl-apseud,Ἀψευδεῖς,Telekleides
+10,68,#aisch-ker,Κήρυκες,Aischylos
+10,69
+10,69,#ar-geor,Γεωργοί,Aristophanes
+10,69,#ar-geor,Γεωργοί,Aristophanes
+10,70
+10,70,#krat-pytin,Πυτίνη,Kratinos
+10,70,#philyl-dod,Δωδεκάτη,Philyllios
+10,71
+10,71,#demosth-phainip,πρὸς Φαίνιππον,Demosthenes
+10,71,#philoch-atth,Ἀτθίς,Philochoros
+10,71,#epich-phiokl,Φιλοκλίνης,Epicharmos
+10,71,#ar-ach,Ἀχαρνεῖς,Aristophanes
+10,72
+10,72,#diph-hek,Ἑκάτη,Diphilos
+10,72,#diph-adelph,Ἀδελφοί,Diphilos
+10,72,#ar-telm,Τελμισσεῖς,Aristophanes
+10,72,#ar-ach,Ἀχαρνεῖς,Aristophanes
+10,73
+10,73,#eup-marik,Μαρικᾶς,Eupolis
+10,73,#antiph-meleagr,Μελέαγρος,Antiphanes
+10,73,#men-karch,Καρχηδόνιος,Menandros
+10,74
+10,74,#ar-holk,Ὁλκάδες,Aristophanes
+10,74,#ar-ger,Γῆρας,Aristophanes
+10,75
+10,75,#ar-geryt,Γηρυτάδης,Aristophanes
+10,75,#pher-pet,Πετάλη,Pherekrates
+10,76
+10,76,#krat-hor,Ὧραι,Kratinos
+10,76,#polyz-demot,Δημοτυνδάρεως,Polyzelos
+10,76,#ar-anag,Ἀνάγυρος,Aristophanes
+10,77
+10,77,#aisch-sisyph,Σίσυφος,Aischylos
+10,78
+10,78,#diokl-bakch,Βάκχαι,Diokles
+10,78,#ar-her,Ἥρωες,Aristophanes
+10,79
+10,79,#pher-ler,Λῆροι,Pherekrates
+10,79,#ar-dram_kent,Δράματα ἢ Κένταυρος,Aristophanes
+10,79,#soph-tript,Τριπτόλεμος,Sophokles
+10,80
+10,80,#ar-telm,Τελμισσεῖς,Aristophanes
+10,80,#ar-ekkl,Ἐκκλησιάζουσαι,Aristophanes
+10,80,#xen-anab,Ἀνάβασις,Xenophon
+10,80,#men-hippok,Ἱπποκόμος,Menandros
+10,81
+10,82
+10,82,#krat-bous,Βούσιρις,Kratinos
+10,82,#epich-pyrrha,Πύρρα ἢ Προμηθεύς,Epicharmos
+10,82,#ar-telm,Τελμισσεῖς,Aristophanes
+10,83
+10,84
+10,84,#antiph-aphr,Ἀφροδίτης Γοναί,Antiphanes
+10,84,#ar-holk,Ὁλκάδες,Aristophanes
+10,85
+10,85,#anon-keram #hes-keram,Κεραμεῖς,anonymus poet of Kerameis or Hesiodos
+10,85,#ar-babyl,Βαβυλώνιοι,Aristophanes
+10,86
+10,86,#eup-philoi,Φίλοι,Eupolis
+10,86,#ar-orn,Ὄρνιθες,Aristophanes
+10,86,#phryn-mous,Μοῦσαι,Phrynichos
+10,86,#epich-heb,Ἥβης γάμος,Epicharmos
+10,87
+10,87,#epich-skir,Σκίρων,Epicharmos
+10,87,#hippokr-knid,πρὸς τὰς Κνιδίας δόξας,Hippokrates
+10,88
+10,88,#metagen-philoth,Φιλοθύτης,Metagenes
+10,88,#antiph-boiot,Βοιωτία,Antiphanes
+10,88,#ar-tagen,Ταγηνισταί,Aristophanes
+10,89
+10,89,#pher-krapat,Κραπάταλοι,Pherekrates
+10,89,#eup-kol,Κόλακες,Eupolis
+10,89,#pher-her,Ἥρωες,Pherekrates
+10,91
+10,91,#ar-ach,Ἀχαρνεῖς,Aristophanes
+10,91,#ar-geryt,Γηρυτάδης,Aristophanes
+10,91,#eup-bapt,Βάπται,Eupolis
+10,91,#pher-myrm,Μυρμηκάνθρωποι,Pherekrates
+10,92
+10,92,#ion-alkm,Ἀλκμήνη,Ion
+10,92,#ar-amph,Ἀμφιάραος,Aristophanes
+10,92,#ar-ach,Ἀχαρνεῖς,Aristophanes
+10,92,#ar-ach,Ἀχαρνεῖς,Aristophanes
+10,92,#ar-dait,Δαιταλεῖς,Aristophanes
+10,93
+10,93,#ar-tagen,Ταγηνισταί,Aristophanes
+10,93,#nikoch-gal,Γαλάτεια,Nikochares
+10,93,#apollg-gram,Γραμματειδιοποιός,Apollodoros Geloos
+10,94
+10,94,#ar-ach,Ἀχαρνεῖς,Aristophanes
+10,94,#men-philadelph,Φιλάδελφοι,Menandros
+10,94,#anaxip-kith,Κιθαρῳδός,Anaxippos
+10,95
+10,95,#ar-ach,Ἀχαρνεῖς,Aristophanes
+10,96
+10,96,#ar-hip,Ἱππεῖς,Aristophanes
+10,97
+10,97,#lys-euth,ὑπὲρ τῶν δημιοπράτων πρὸς Εὐθίαν,Lysias
+10,97,#eup-kol,Κόλακες,Eupolis
+10,98
+10,98,#eub-parmen,Παρμενίσκος,Euboulos
+10,98,#eup-heil,Εἵλωτες,Eupolis
+10,98,#telekl-apseud,Ἀψευδεῖς,Telekleides
+10,98,#men-hippok,Ἱπποκόμος,Menandros
+10,98,#poseid-apokl,Ἀποκλειομένη,Poseidippos
+10,99
+10,99,#ar-tagen,Ταγηνισταί,Aristophanes
+10,99,#diokl-mel,Μέλιτται,Diokles
+10,99,#hip-iamb_1,πρῶτον τῶν ἰάμβων,Hipponax
+10,99,#diph-epikl,Ἐπίκληρος,Diphilos
+10,100
+10,100,#eunikos-ant,Ἀντεία,Eunikos
+10,100,#alex-lemn,Λημνία,Alexis
+10,101
+10,101,#ar-tagen,Ταγηνισταί,Aristophanes
+10,101,#strat-phsych,Ψυχασταί,Strattis
+10,101,#men-messen,Μεσσηνία,Menandros
+10,102
+10,102,#eup-aig,Αἶγες,Eupolis
+10,102,#ar-sph,Σφῆκες,Aristophanes
+10,102,#men-dem,Δημιουργός,Menandros
+10,102,#ar-eir,Εἰρήνη Ι or Εἰρήνη ΙΙ,Aristophanes
+10,102,#ar-holk,Ὁλκάδες,Aristophanes
+10,103
+10,103,#ar-plout,Πλοῦτος I or Πλοῦτος II,Aristophanes
+10,103,#solon-iamb,ἴαμβοι,Solon
+10,103,#antiph-koropl,Κοροπλάθος,Antiphanes
+10,104
+10,104,#ar-hip,Ἱππεῖς,Aristophanes
+10,104,#ar-ger,Γῆρας,Aristophanes
+10,104,#plat-adonis,Ἄδωνις,Platon Com.
+10,104,#ar-aiol,Αἰολοσίκων,Aristophanes
+10,104,#philem-harpaz,Ἁρπαζομένη,Philemon
+10,105
+10,105,#krat-kleob,Κλεοβουλίνη,Kratinos
+10,105,#lys-kallaischr,ὑπὲρ Καλλαίσχρου,Lysias
+10,106
+10,106,#ar-sken,Σκηνὰς καταλαμβάνουσαι,Aristophanes
+10,106,#eub-ion,Ἴων,Euboulos
+10,106,#antiph-paras,Παράσιτος,Antiphanes
+10,107
+10,107,#nikoch-lemn,Λήμνιαι,Nikochares
+10,107,#sophr-nymphop,Νυμφοπόνος,Sophron
+10,107,#eub-katak,Κατακολλῶν,Euboulos
+10,107,#antiph-euthyd,Εὐθύδικος,Antiphanes
+10,108
+10,108,#alex-asklepiokl,Ἀσκληπιοκλείδης,Alexis
+10,108,#hipparch-pann,Παννυχίδες,Hipparchos
+10,108,#eur-eurysth,Εὐρυσθεύς σατυρικός,Euripides
+10,109
+10,109,#ar-dait,Δαιταλεῖς,Aristophanes
+10,109,#polyz-dion_gon,Διονύσου γοναί,Polyzelos
+10,109,#theopomp-seir,Σειρῆνες,Theopompos Com.
+10,110
+10,110,#kephis-hys,Ὗς,Kephisodoros
+10,110,#ar-ach,Ἀχαρνεῖς,Aristophanes
+10,110,#soph-herakl,Ἡρακλῆς σατυρικός,Sophokles
+10,111
+10,111,#ar-ach,Ἀχαρνεῖς,Aristophanes
+10,111,#eur-autol,Αὐτόλυκος σατυρικός,Euripides
+10,111,#alex-spondoph,Σπονδοφόρος,Alexis
+10,112
+10,113
+10,113,#ar-her,Ἥρωες,Aristophanes
+10,113,#alkl-mel_2,δεύτερον μελῶν,Alkaios Lyr.
+10,113,#hip-iamb_1,πρῶτον τῶν ἰάμβων,Hipponax
+10,113,#ar-neph,Νεφέλαι,Aristophanes
+10,113,#thouk-hist_7,ἕβδομον βιβλίον,Thoukydides
+10,114
+10,114,#ar-anag,Ἀνάγυρος,Aristophanes
+10,114,#ar-sken,Σκηνὰς καταλαμβάνουσαι,Aristophanes
+10,115
+10,115,#philon-koth,Κόθορνοι,Philonides
+10,115,#krat-troph,Τροφώνιος,Kratinos
+10,115,#men-thet,Θεττάλη,Menandros
+10,116
+10,116,#ar-ach,Ἀχαρνεῖς,Aristophanes
+10,116,#lys-smikr,πρὸς Σμικρίνην,Lysias
+10,116,#ar-aiol,Αἰολοσίκων,Aristophanes
+10,116,#philistos-hist_2,δευτέρα (ἱστοριῶν),Philistos
+10,117
+10,117,#eur-alkm,Ἀλκμήνη,Euripides
+10,117,#aisch-xantr,Ξαντρίαι,Aischylos
+10,118
+10,118,#theopomp-eir,Εἰρήνη,Theopompos Com.
+10,118,#ar-aiol,Αἰολοσίκων,Aristophanes
+10,118,#krat-geit,Γείτονες,Kratinos
+10,119
+10,119,#ar-dram_niob,Δράματος ἢ Νίοβος,Aristophanes
+10,119,#ar-phoin,Φοίνισσαι,Aristophanes
+10,119,#ar-tagen,Ταγηνισταί,Aristophanes
+10,119,#ar-dait,Δαιταλεῖς,Aristophanes
+10,120
+10,120,#ar-batr,Βάτραχοι,Aristophanes
+10,120,#soph-andr,Ἀνδρομέδα,Sophokles
+10,120,#ar-dait,Δαιταλεῖς,Aristophanes
+10,120,#eub-stephan,Στεφανοπώλιδες,Euboulos
+10,121
+10,121,#alex-drop,Δρωπίδης,Alexis
+10,121,#ar-ach,Ἀχαρνεῖς,Aristophanes
+10,121,#ar-triph,Τριφάλης,Aristophanes
+10,122
+10,122,#axion-chalk,Χαλκιδικός,Axionikos
+10,122,#hermip-phorm,Φορμοφόροι,Hermippos
+10,123
+10,124
+10,124,#theopomp-eir,Εἰρήνη,Theopompos Com.
+10,125
+10,126
+10,126,#philyl-pol,Πόλεις,Philyllios
+10,127
+10,127,#ar-dan,Δαναΐδες,Aristophanes
+10,127,#strat-phsych,Ψυχασταί,Strattis
+10,127,#men-misog,Μισογύνης,Menandros
+10,127,#ar-aiol,Αἰολοσίκων,Aristophanes
+10,128
+10,129
+10,130
+10,130,#ar-dan,Δαναΐδες,Aristophanes
+10,130,#alex-sor,Σώρακοι,Alexis
+10,131
+10,132
+10,132,#men-hal,Ἁλιεῖς,Menandros
+10,133
+10,133,#soph-ach,Ἀχαιῶν σύλλογος,Sophokles
+10,134
+10,134,#soph-naupl,Ναύπλιος,Sophokles
+10,134,#epich-odys_nauag,Ὀδυσσεύς Ναυαγός,Epicharmos
+10,135
+10,135,#plat-heort,Ἑορταί,Platon Com.
+10,136
+10,136,#hermip-moir,Μοῖραι,Hermippos
+10,136,#archip-plout,Πλοῦτος,Archippos
+10,136,#eup-tax,Ταξίαρχοι,Eupolis
+10,136,#hermip-moir,Μοῖραι,Hermippos
+10,136,#ar-ach,Ἀχαρνεῖς,Aristophanes
+10,137
+10,137,#ar-thesm,Θεσμοφοριάζουσαι Ι or Θεσμοφοριάζουσαι ΙΙ,Aristophanes
+10,137,#amphis-kyb,Κυβευταί,Amphis
+10,137,#men-asp,Ἀσπίς,Menandros
+10,137,#diph-epidik,Ἐπιδικαζόμενος,Diphilos
+10,138
+10,138,#apollg-pseudaias,Ψευδαίας,Apollodoros Geloos
+10,138,#apollk-anteuerg,Ἀντευεργετῶν,Apollodoros Karystios
+10,138,#antiph-apokart,Ἀποκαρτερῶν,Antiphanes
+10,138,#xen-anab,Ἀνάβασις,Xenophon
+10,139
+10,139,#poseid-epist,Ἐπίσταθμος,Poseidippos
+10,139,#men-misog,Μισογύνης,Menandros
+10,139,#aristot-ha_3,τρίτον περὶ ζῴων,Aristoteles
+10,140
+10,140,#krat-dionys,Διονυσαλέξανδρος,Kratinos
+10,140,#eup-chrys_gen,Χρυσοῦν γένος,Eupolis
+10,140,#ar-thesm,Θεσμοφοριάζουσαι Ι or Θεσμοφοριάζουσαι ΙΙ,Aristophanes
+10,140,#poseid-pornob,Πορνοβοσκός,Poseidippos
+10,141
+10,141,#pl-alc,Ἀλκιβιάδης,Platon Phil.
+10,141,#pl-r,Πολιτεία,Platon Phil.
+10,141,#pl-smp,Συμπόσιον,Platon Phil.
+10,141,#nikoch-kret,Κρῆτες,Nikochares
+10,142
+10,142,#plat-hell,Ἑλλάς,Platon Com.
+10,143
+10,143,#men-philadelph,Φιλάδελφοι,Menandros
+10,144
+10,144,#ar-holk,Ὁλκάδες,Aristophanes
+10,144,#ar-sken,Σκηνὰς καταλαμβάνουσαι,Aristophanes
+10,144,#alex-leuk,Λευκαδία,Alexis
+10,144,#ameips-sphend,Σφενδόνη,Ameipsias
+10,145
+10,145,#eur-palam,Παλαμήδης,Euripides
+10,145,#men-hal,Ἁλιεῖς,Menandros
+10,145,#theopomp-pol,Πόλεις,Theopompos Com.
+10,145,#eur-eurysth,Εὐρυσθεύς σατυρικός,Euripides
+10,145,#philem-rhod,Ῥοδίαι,Philemon
+10,146
+10,146,#men-mis,Μισούμενος,Menandros
+10,147
+10,147,#soph-priam,Πρίαμος,Sophokles
+10,147,#ar-sken,Σκηνὰς καταλαμβάνουσαι,Aristophanes
+10,148
+10,148,#ar-batr,Βάτραχοι,Aristophanes
+10,149
+10,149,#theophr-metal,περὶ μετάλλων,Theophrastos
+10,150
+10,150,#pher-agr,Ἄγριοι,Pherekrates
+10,151
+10,151,#eup-aig,Αἶγες,Eupolis
+10,151,#ar-triph,Τριφάλης,Aristophanes
+10,152
+10,152,#ar-tagen,Ταγηνισταί,Aristophanes
+10,152,#ar-thesm,Θεσμοφοριάζουσαι Ι or Θεσμοφοριάζουσαι ΙΙ,Aristophanes
+10,152,#ar-babyl,Βαβυλώνιοι,Aristophanes
+10,152,#antiph-midon,Μίδων,Antiphanes
+10,152,#apollk-enea,Ἐνέα,Apollodoros Karystios
+10,152,#antiph-hautou_er,Αὑτοῦ ἐρῶν,Antiphanes
+10,152,#stesich-kerb,Κέρβερος,Stesichoros
+10,153
+10,154
+10,154,#lysip-bakch,Βάκχαι,Lysippos
+10,154,#timok-balan,Βαλανεῖον,Timokles
+10,154,#apollk-diab,Διάβολος,Apollodoros Karystios
+10,155
+10,155,#demosth-aristog,πρὸς Ἀριστογείτονα,Demosthenes
+10,155,#ar-phoin,Φοίνισσαι,Aristophanes
+10,155,#ar-plout,Πλοῦτος I or Πλοῦτος II,Aristophanes
+10,156
+10,156,#krat-serif,Σερίφιοι,Kratinos
+10,156,#nikoph-aphr,Ἀφροδίτης Γοναί,Nikophon
+10,156,#ar-neph,Νεφέλαι,Aristophanes
+10,157
+10,157,#achaios-iris,Ἴρις,Achaios
+10,158
+10,158,#ar-dait,Δαιταλεῖς,Aristophanes
+10,159
+10,159,#ar-holk,Ὁλκάδες,Aristophanes
+10,159,#hypereid-harpal,ὑπὲρ Ἁρπάλου,Hypereides
+10,159,#phryn-poastr,Ποάστριαι,Phrynichos
+10,159,#ar-lys,Λυσιστράτη,Aristophanes
+10,160
+10,160,#ar-geryt,Γηρυτάδης,Aristophanes
+10,160,#ar-hor,Ὧραι,Aristophanes
+10,160,#soph-aigeus,Αἰγεύς,Sophokles
+10,160,#krat-thrat,Θρᾴτται,Kratinos
+10,161
+10,161,#epich-elpis,Ἐλπίς,Epicharmos
+10,161,#eup-autol_1_2,Αὐτόλυκος,Eupolis
+10,161,#theopomp-philip_5,πέμπτη τῶν Φιλιππικῶν,Theopompos Hist.
+10,161,#ar-amph,Ἀμφιάραος,Aristophanes
+10,162
+10,162,#philem-gra,Γραῖαι,Philemon
+10,162,#ar-triph,Τριφάλης,Aristophanes
+10,164
+10,164,#philem-thyr,Θυρωρός,Philemon
+10,164,#telekl-amphikt,Ἀμφικτύονες,Telekleides
+10,164,#ar-ach,Ἀχαρνεῖς,Aristophanes
+10,165
+10,165,#aristot-orch_pol,Ὀρχομενίων πολιτεία,Aristoteles
+10,165,#soph-troil,Τρωίλος,Sophokles
+10,165,#hermip-dem,Δημόται,Hermippos
+10,166
+10,166,#ar-dram_niob,Δράματος ἢ Νίοβος,Aristophanes
+10,167
+10,167,#plat-soph,Σοφισταί,Platon Com.
+10,167,#plat-hell,Ἑλλάς,Platon Com.
+10,168
+10,168,#ar-neph,Νεφέλαι,Aristophanes
+10,168,#antiph-skyth,Σκύθαι,Antiphanes
+10,168,#ar-ach,Ἀχαρνεῖς,Aristophanes
+10,169
+10,169,#archip-herakl,Ἡρακλῆς γαμῶν,Archippos
+10,169,#strat-kin,Κινησίας,Strattis
+10,169,#ar-geryt,Γηρυτάδης,Aristophanes
+10,170
+10,170,#aristot-phys #theophr-phys,Φυσικά,Aristoteles or Theophrastos
+10,170,#ar-geryt,Γηρυτάδης,Aristophanes
+10,170,#amphis-alkm,Ἀλκμαίων,Amphis
+10,170,#men-olynth,Ὀλυνθία,Menandros
+10,171
+10,171,#ar-dram_kent,Δράματα ἢ Κένταυρος,Aristophanes
+10,171,#ameips-kon,Κόννος,Ameipsias
+10,171,#ar-orn,Ὄρνιθες,Aristophanes
+10,172
+10,172,#ar-sken,Σκηνὰς καταλαμβάνουσαι,Aristophanes
+10,172,#ar-dait,Δαιταλεῖς,Aristophanes
+10,172,#ar-holk,Ὁλκάδες,Aristophanes
+10,172,#anax-kith,Κιθαρίστρια,Anaxandrides
+10,172,#antiph-orph,Ὀρφεύς,Antiphanes
+10,173
+10,173,#ar-babyl,Βαβυλώνιοι,Aristophanes
+10,173,#ar-holk,Ὁλκάδες,Aristophanes
+10,173,#ar-tagen,Ταγηνισταί,Aristophanes
+10,173,#ar-her,Ἥρωες,Aristophanes
+10,173,#ar-ger,Γῆρας,Aristophanes
+10,174
+10,174,#xen-anab,Ἀνάβασις,Xenophon
+10,174,#ar-pel,Πελαργοί,Aristophanes
+10,174,#lys-kleon,πρὸς Κλέωνα,Lysias
+10,175
+10,175,#sophr-mim_gyn,γυναικεῖοι μίμοι,Sophron
+10,175,#aisch-kerk,Κεκρκύων,Aischylos
+10,175,#alex-amphot,Ἀμφωτίς,Alexis
+10,175,#krat-her,Ἥρωες,Kratinos
+10,176
+10,176,#men-arrheph,Ἀρρηφόρος,Menandros
+10,176,#philem-gam,Γάμος,Philemon
+10,176,#philem-eur,Εὔριπος,Philemon
+10,176,#antiph-philisk,Φιλίσκος,Antiphanes
+10,176,#pl-lg,Νόμοι,Platon Phil.
+10,177
+10,177,#krat-nem,Νέμεσις,Kratinos
+10,177,#ion-meg,Μεγάλον δράμα,Ion
+10,177,#dein-amaz,Ἀμαζόνες,Deinolochos
+10,177,#archip-rhinon,Ῥίνων,Archippos
+10,178
+10,178,#eur-autol,Αὐτόλυκος σατυρικός,Euripides
+10,179
+10,179,#epich-pith,Πίθων,Epicharmos
+10,179,#pher-korian,Κοριαννώ,Pherekrates
+10,179,#antiph-bombyk,Βομβυκιός,Antiphanes
+10,179,#aristot-arg_pol,Ἀργείων πολιτεία,Aristoteles
+10,180
+10,180,#ar-amph,Ἀμφιάραος,Aristophanes
+10,180,#theopomp-alth,Ἀλθαία,Theopompos Com.
+10,181
+10,181,#theopomp-paid,Παῖδες,Theopompos Com.
+10,181,#pher-ipn,Ἰπνός,Pherekrates
+10,182
+10,182,#hermip-strat,Στρατιῶται,Hermippos
+10,182,#thouk-plat,Πλαταϊκή πολιορκία,Thoukydides
+10,182,#ar-sph,Σφῆκες,Aristophanes
+10,183
+10,183,#strat-phoin,Φοίνισσαι,Strattis
+10,183,#ar-sph,Σφῆκες,Aristophanes
+10,183,#pher-ipn,Ἰπνός,Pherekrates
+10,184
+10,184,#krat-pytin,Πυτίνη,Kratinos
+10,184,#aristot-ha_8,ὄγδοον περὶ ζῴων ἱστορίας,Aristoteles
+10,185
+10,185,#sannyr-gel,Γέλως,Sannyrion
+10,185,#ar-dram_niob,Δράματος ἢ Νίοβος,Aristophanes
+10,185,#ar-dram_kent,Δράματα ἢ Κένταυρος,Aristophanes
+10,186
+10,186,#krat-cheir,Χείρωνες,Kratinos
+10,186,#krat-nem,Νέμεσις,Kratinos
+10,186,#aisch-ker,Κήρυκες,Aischylos
+10,186,#phryn-mous,Μοῦσαι,Phrynichos
+10,187
+10,187,#men-paid,Παιδίον,Menandros
+10,188
+10,188,#philon-neos #theod_phok-neos #theod_sam-neos,ἡ τοῦ νεὼ ποίησις,Philon or Theodoros Phokaeus or Theodoros Samios
+10,188,#ar-eir,Εἰρήνη Ι or Εἰρήνη ΙΙ,Aristophanes
+10,189
+10,189,#strat-kin,Κινησίας,Strattis
+10,190
+10,190,#soph-aichm,Αἰχμαλωτίδες,Sophokles
+10,190,#plat-hier,Αἱ ἀφ᾽ ἱερῶν,Platon Com.
+10,190,#plat-poiet,Ποιητής,Platon Com.
+10,190,#anaxil-botryl,Βοτρυλίων,Anaxilas
+10,191
+10,192
+10,192,#eup-pol,Πόλεις,Eupolis
